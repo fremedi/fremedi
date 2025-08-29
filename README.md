@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://github.com/fremedi/fremedi/blob/main/Portada.png?raw=true"
+       alt="Banner Data Analyst"
+       width="100%" />
+</div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

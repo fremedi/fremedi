@@ -18,6 +18,7 @@ drive decision making.
 
 - :technologist: **Currently working on** `Business Intelligence Analyst`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=FacundoRemedi&amp;color=EA4335&amp;style=flat-square)](mailto:facu_remedi@hotmail.com)
+- :briefcase: Connect with me on **LinkedIn** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo%20Remedi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundoremedi/)
 
 ## 🛠️ My Skills
 

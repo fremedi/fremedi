@@ -21,7 +21,7 @@ I bridge the gap between **strategic business/financial vision** and **modern te
 - 💡 **What I do:** 
   - **Data Analytics & BI:** Interactive executive dashboards, KPI modeling, and financial analytics.
   - **Process Automation:** No-code/low-code workflows (n8n, Make, Power Platform) and Python backend scripts.
-  - **AI Agents & Chatbots:** Custom RAG implementations, conversational chatbots, and multi-agent workflows integrated into business applications.
+  - **AI Agents & Chatbots:** Conversational chatbots and multi-agent workflows integrated into business applications.
 - 🔭 **Currently focused on:** Developing autonomous agents and smart automated workflows for data-driven operations.
 - 💬 **Ask me about:** Power BI, Python, SQL, Financial Data Modeling, AI Chatbots & Workflow Automation.
 
